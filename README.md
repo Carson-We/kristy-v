@@ -1,3 +1,4 @@
+***It is a prototype of [Knowledge Retrieval and Inference System for Test Yielding](https://github.com/Carson-We/Knowledge_Retrieval_and_Inference_System_for_Test_Yielding.git)***
 
 > Open this page at [https://carson-we.github.io/kristy-v/](https://carson-we.github.io/kristy-v/)
 
@@ -23,4 +24,4 @@ To edit this repository in MakeCode.
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
-It is a prototype of [Knowledge Retrieval and Inference System for Test Yielding]()
+It is a prototype of [Knowledge Retrieval and Inference System for Test Yielding](https://github.com/Carson-We/Knowledge_Retrieval_and_Inference_System_for_Test_Yielding.git)
